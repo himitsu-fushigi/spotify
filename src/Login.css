@@ -1,0 +1,23 @@
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background: #000;
+}
+
+.login > img{
+    width: 20%;
+    margin-bottom: 35px;
+}
+
+.login > a{
+    padding: 18px 30px;
+    border-radius: 99px;
+    background: #1db954;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
